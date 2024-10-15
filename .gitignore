@@ -1,2 +1,2 @@
-site-app/*
-# site-app/public/*
+site-app/public/*
+!site-app/public/index.php
